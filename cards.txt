@@ -1,0 +1,133 @@
+-=-=- How to Play -=-=-
+How to Play
+1. To start the game each player draws 5 white cards.
+2. The admin with the most recent network outage begins by drawing a blue card and reading it out loud.
+3. The other players answer the question or fill in the blank by playing their favorite card, face down.
+4. The admin shuffles the answers, rereads the question and presents each answer. Then the admin picks the funniest play.
+5. The player with the winning card gets an uptime point.
+6. Now the next player becomes the admin and everyone else draws back up to 5 white cards.
+7. The cake is a lie. Now go ahead, take your time. Your network is probably down already.
+-=-=- Black -=-=-
+Your company’s security guidelines now prohibit ______.
+The worst desktop wallpaper in the company shows ______.
+Marketing’s life was not the same after IT showed them ______.
+No. We don’t support ______.
+That’s right, I burned down the data center. How you ask? With ______. 
+Studies show IT people work 100% more effectively after being exposed to ______.
+What’s your user hiding from you?
+Turning it off and on again didn’t help because of ______.
+Choose now between Megan Fox and ______.
+It’s big, black, and lives in your data center.
+Yes. I hacked ______.
+We usually use ______ for our backups.
+When the sysadmin encountered ______ he jumped out of the window.
+Coming to the next version of Windows Server: ______!
+A user just opened a help desk ticket because they put ______ in their SD card slot.
+Hey! Why is our admin crying?
+Why is the core server so sticky?
+No IT data center is complete without ______.
+
+-=-=- Black - Pick 2 -=-=-
+Your IT guy’s worst nightmare involves ______ paired with ______.
+______ is geeky but ______ is nerdy.
+
+-=-=- White -=-=-
+THE INTERNET.
+Blackjack & hookers.
+Darkness.
+KHAAAAAN!
+Erotic fan fiction of Captain Kirk.
+Kim Kardashian’s iCloud account.
+The newbie cooking crystal meth in the server room.
+Right clicking EVERYTHING.
+Brogrammers.
+Sailor Moon cosplay.
+Schrödinger’s cat.
+Hitting refresh just one more time.
+Half-Life 3.
+Fucking campers.
+EXTERMINATE.
+Git good.
+The CEO.
+An enormous rack.
+Russian hackers.
+Insecure ejection.
+Your princess is in another castle.
+He-Man.
+Getting socially engineered by a 12 year old.
+The crazy intern pulling all plugs in the server room and running away
+Full support for IE6.
+Somebody calculating pi on the Exchange server.
+MS-DOS.
+Playing with your joystick.
+MOAR USB STICKS.
+Grumpy Cat.
+Emergency disconnect with an ax.
+DDoS attacks from your fridge.
+4-day-old coffee, reheated.
+A full copy of the internet.
+The cloud.
+Nerdgasm.
+Strange women lying in ponds distributing swords.
+Chuck Norris.
+Sheldon’s mom.
+RNGesus.
+Penetration testing.
+I don’t know, I wasn’t paying attention but I didn’t change anything.
+A trunk full of Mountain Dew.
+A suspiciously sticky keyboard.
+A flux capacitator.
+Deadpool. On a unicorn.
+RTFM!
+Playing with my boot sector.
+Upgrading to ARPANET.
+A 56k modem.
+Simply pressing CAPSLOCK.
+Debugging Layer 8 problems.
+Nokia 3210.
+PC Master Race.
+I’m holding that cable right now!
+A sexy meme of your boss.
+A decent package.
+4chan.
+A floppy disk from 1989.
+Darth Vader talking dirty.
+The dark web.
+127.0.0.1.
+HAL.
+42.
+A red stapler.
+A 22’’ CRT monitor.
+Head of Marketing.
+ERP over Telnet.
+Vengeful Trekkies.
+Batman on acid.
+NSFW content.
+Random ASCII porn.
+Taylor Swift’s YouTube channel.
+Someone being wrong on the internet.
+A towel.
+Random cat GIFs.
+CHEATER.
+Sonic screwdriver.
+A USB laser sword from China.
+A printed version of Google Earth.
+Janice in HR who needs three 4K monitors.
+Trolls.
+Your mom’s password.
+A desktop computer with a turbo button.
+Flying Pop-Tart rainbow cat badges.
+A sweaty band shirt.
+Tentacle porn.
+Coffee shop WiFi.
+My Wookiee.
+Sandals and socks.
+Desperately pinging Google.
+Entering rm -rf /.
+Apple fanboys.
+Dungeons & Dragons.
+Stephen Hawking.
+A broken Nerf gun.
+An overclocked C64.
+Naming servers after error codes.
+Failing the Kobayashi Maru test
