@@ -1,3 +1,5 @@
+# NOT SUITABLE FOR UNDER 16s.
+
 ﻿# Cards Against Uptime
 
 A community-driven fork of Cards Against Downtime, originally created by Paessler as a Cards Against Humanity style-game for folks in the IT industry.
